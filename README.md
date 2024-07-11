@@ -1,4 +1,6 @@
-![Header](https://i.pinimg.com/originals/e8/f9/fe/e8f9feac456fc8e449e99afa56bb1752.gif)
+<div align="center">
+  <img src="[https://your-image-url.com](https://i.pinimg.com/originals/e8/f9/fe/e8f9feac456fc8e449e99afa56bb1752.gif)" alt="Header">
+</div>
 
 # Hi, i'm Keniel! 👋
 
