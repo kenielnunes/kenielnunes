@@ -1,4 +1,4 @@
-![Header]([[https://your-image-url.com](https://i.pinimg.com/originals/e8/f9/fe/e8f9feac456fc8e449e99afa56bb1752.gif)](https://i.pinimg.com/originals/e8/f9/fe/e8f9feac456fc8e449e99afa56bb1752.gif))
+![Header](https://i.pinimg.com/originals/e8/f9/fe/e8f9feac456fc8e449e99afa56bb1752.gif)
 
 # Hi, i'm Keniel! 👋
 
