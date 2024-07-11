@@ -32,11 +32,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keniel-nunes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keny_alves/)
 
-## Objetivos
-
-- 🚀 **Objetivo de Carreira:** [Seu objetivo de carreira]
-- 🌱 **Objetivo Pessoal:** [Seu objetivo pessoal]
-
 - ![Keniel GitHub stats](https://github-readme-stats.vercel.app/api?username=kenielnunes&show_icons=true&theme=radical)
 
 ---
