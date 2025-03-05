@@ -25,6 +25,7 @@
 
 - 💻 **Code**
 - 🎮 **Games**
+- 🏋️ **Gym**
 - 📺 **Animes**
 - 📺 **Series**
 - 🎬 **Movies**
